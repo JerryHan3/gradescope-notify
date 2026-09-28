@@ -1,0 +1,6 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//github.com/jakobz5404/Gradescope-iCal-Integration//EN
+CALSCALE:GREGORIAN
+ X-WR-CALNAME:Gradescope Assignments
+END:VCALENDAR
