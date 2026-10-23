@@ -39,6 +39,14 @@
       "lateDueDate": "20261023T120000Z",
       "link": "https://www.gradescope.com/courses/1400619",
       "submitted": true
+    },
+    {
+      "title": "hw6",
+      "course": "EE140 (2026-2027-1 term)",
+      "dueDate": "20261030T235900Z",
+      "lateDueDate": "20261023T060000Z",
+      "link": "https://www.gradescope.com/courses/1400619",
+      "submitted": true
     }
   ]
 }
